@@ -16,8 +16,6 @@ Bu projeyi çalıştırmadan önce aşağıdaki kütüphanelerin yüklü olduğu
 pip install streamlit PyPDF2 pdfplumber langchain faiss-cpu openai
 ```
 
-Ayrıca, OpenAI API anahtarınızı `.env` dosyasına ekleyerek güvenli bir şekilde saklayabilirsiniz:
-
 ```bash
 OPENAI_API_KEY='your-api-key-here'
 ```
