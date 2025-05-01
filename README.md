@@ -1,4 +1,4 @@
-# MEV'S ISTQB AI TESTING EXAM PREP
+# MEV'S ISTQB AI TESTING EXAM PREP (OPEN AI POWERED)
 
 Bu proje, ISTQB AI Tester sınavına hazırlananlar için geliştirilmiş bir Chatbot uygulamasıdır. Kullanıcılar, PDF formatındaki syllabus'u yükleyerek, içerisindeki bilgilerle ilgili sorular sorabilir ve yanıt alabilirler.
 
